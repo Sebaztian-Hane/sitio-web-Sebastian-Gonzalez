@@ -42,3 +42,9 @@ Pasos:
 3.Abre tu navegador y entra a:
 http://localhost/WEB_Alada_Producciones/pages/test.html
 
+¿Qué aprendí?
+- Cómo organizar los archivos de un sitio web. 
+- Separar correctamente HTML, CSS, JS y lógica en PHP. 
+- Documentar proyectos con un archivo README.md claro y completo. 
+- Subir y manejar versiones del proyecto en Git y GitHub.
+
